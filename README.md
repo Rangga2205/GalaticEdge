@@ -1,4 +1,4 @@
-![Black Modern Outer Space Presentation](https://github.com/user-attachments/assets/ec4b3b8e-e1e9-43d3-b981-f9552770ddfc)
+![Black Modern Outer Space Presentation (1)](https://github.com/user-attachments/assets/5a29dcb4-68d5-4892-bfa4-9d6786d581dc)
 
 ## 🔴 About
 
