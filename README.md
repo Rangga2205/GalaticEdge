@@ -24,11 +24,11 @@ itch.io : Waiting Update
   
 | Part | Development Time |
 |------------------|------|
-| Terrain Set | 1 Day|
-| Player and Enemy | 2 Day |
-| Mecanic | 2 Day |
-| Design | 1 Day |
-| UI | 1 Day |
+| Terrain Set | 40 Minutes|
+| Player and Enemy | 60 Minutes |
+| Mecanic | 300 Minutes |
+| Design | 60 Minutes |
+| UI |  40 Minutes |
 
 ## 📜Scripts and Features
 - In this game, we create UI Design planet.
